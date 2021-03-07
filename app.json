@@ -1,0 +1,12 @@
+{
+  "name": "rn-faker-2",
+  "displayName": "rn-faker-2",
+  "expo": {
+    "name": "rn-faker-2",
+    "slug": "rn-faker-2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
